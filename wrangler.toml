@@ -1,9 +1,9 @@
-name = "vhlink"
+name = "shorten-service"
 type = "javascript"
-account_id = "39a76d640a29996bffbd58c36a537c2b"
+account_id = "43db553adafe11377588036999315c17"
 workers_dev = true
 route = ""
 zone_id = ""
 kv_namespaces = [
-  { binding = "LINKS", id = "77612e844ef647009a28a1153fcd0a96", preview_id = "77612e844ef647009a28a1153fcd0a96" }
+  { binding = "LINKS", id = "328182c826ed469ebf4b974f4e7cb69b", preview_id = "f0777188b1a74526ae722d64346e7c4e" }
 ]
